@@ -23,5 +23,3 @@ This repository contains medical clinic management system projects developed usi
 ## 👨‍💻 Author
 
 **Hasan Sattouf**
-Computer Systems Engineering Student
-Birzeit University
